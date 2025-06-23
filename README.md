@@ -1,1 +1,1 @@
-# Off-Grid-Small-Wind-Turbine
+# Off The Grid Small Wind Turbine
